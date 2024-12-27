@@ -12,7 +12,7 @@ Skripta za postavljanje frekvencije RP2040 procesora u rasponu od 125 MHz do 250
 
 **sysinfo.py**
 
-Skripta za ispis sistemski informacija vezano uz cpu, ram, flash, datum, uptime, sadržaj flash memorije.
+Skripta za ispis sistemskih informacija vezano uz cpu, ram, flash, datum, uptime, sadržaj flash memorije.
 
 ![My Image](images/RP2040-sysinfo.png)
 <hr>
