@@ -1,4 +1,5 @@
-# RPi_Pico_RP2040
+# Raspberry Pi Pico RP2040 clone 16 MB
+
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
 <hr>
 
