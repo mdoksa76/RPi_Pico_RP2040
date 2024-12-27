@@ -18,4 +18,4 @@ Skripta za ispis sistemski informacija vezano uz cpu, ram, flash, datum, uptime,
 
 Skripta blinkanja led lampice na pločici uređaja spojenoj na Pin 25.
 
-![My Image](images/RP2040-led-onbaord.png)
+![My Image](images/RP2040-led-onboard.png)
