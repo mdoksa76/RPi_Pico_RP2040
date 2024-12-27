@@ -9,3 +9,7 @@ Naknadno sam pregledavao firmware drugih proizvođača u mapi rp2/boards (https:
 Sada su u uf2 mapi tri uf2 datoteke:
   - SparkFun za 16 MB verziju
   - WeActStudio za 8 MB i 16 MB verzije
+
+Poveznice:
+  https://micropython.org/download/WEACTSTUDIO/
+  https://micropython.org/download/SPARKFUN_PROMICRO/
