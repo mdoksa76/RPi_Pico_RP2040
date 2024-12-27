@@ -1,4 +1,5 @@
 # Raspberry Pi Pico RP2040 clone 16 MB
+![My Image](images/pico.png)
 
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
 <hr>
