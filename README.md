@@ -5,7 +5,7 @@ Micropython kod za Raspberry Pi Pico i "kineske klonove".
 
 **file_manager.py**
 
-Skripta za obavljanje osnovnih radnji s datotekama i direktorijima
+Skripta za obavljanje osnovnih radnji s datotekama i direktorijima.
 
 ![My Image](images/file_manager.png)
 <hr>
