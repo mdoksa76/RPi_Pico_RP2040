@@ -3,6 +3,13 @@
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
 <hr>
 
+**file_manager.py**
+
+Skripta za obavljanje osnovnih radnji s datotekama i direktorijima
+
+![My Image](images/file_manager.png)
+<hr>
+
 **rpi_cpu_set_MHz.py**
 
 Skripta za postavljanje frekvencije RP2040 procesora u rasponu od 125 MHz do 250 MHz.
