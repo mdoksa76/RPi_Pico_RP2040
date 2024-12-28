@@ -9,7 +9,8 @@ pwm.freq(1000)
 
 # Open a file to save the data
 with open("pwm_data.txt", "w") as file:
-    while True:
+    # Perform two full cycles for saving data
+    for cycle in range(2):
         # Gradually decrease the brightness
         for duty in range(65535, -1, -256):
             pwm.duty_u16(duty)
@@ -29,3 +30,23 @@ with open("pwm_data.txt", "w") as file:
             file.write(data)
             print(data.strip())  # Print to terminal
             time.sleep(0.01)
+
+# Continue adjusting brightness and printing to terminal indefinitely
+while True:
+    # Gradually decrease the brightness
+    for duty in range(65535, -1, -256):
+        pwm.duty_u16(duty)
+        voltage = (duty / 65535) * 3.3  # Assuming 3.3V as the reference voltage
+        data = f"Decreasing: Duty = {duty}, Voltage = {voltage:.2f}V\n"
+        print(data.strip())  # Print to terminal
+        time.sleep(0.01)
+    
+    time.sleep(0.5)
+    
+    # Gradually increase the brightness
+    for duty in range(0, 65536, 256):
+        pwm.duty_u16(duty)
+        voltage = (duty / 65535) * 3.3  # Assuming 3.3V as the reference voltage
+        data = f"Increasing: Duty = {duty}, Voltage = {voltage:.2f}V\n"
+        print(data.strip())  # Print to terminal
+        time.sleep(0.01)
