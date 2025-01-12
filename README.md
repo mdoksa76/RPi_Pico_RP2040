@@ -41,3 +41,11 @@ Skripta blinkanja led lampice na ploči mikrokontrolera s kontrolom količine sv
 
 ![My Image](images/RP2040-led-onboard-pwm_brightness-data_txt.png)
 <hr>
+
+**ssd1306_i2c_check_20-21-gnd-3V3.py**
+
+Skripta provjere postojanja funkcionalnog I2C uređaja povezanog s RP2040
+
+![My Image](images/ssd1306-i2c-check.png)
+<hr>
+
