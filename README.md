@@ -52,9 +52,13 @@ Skripta provjere postojanja funkcionalnog I2C uređaja povezanog s RP2040
 **Kolekcija ssd1306 skripti**
 
 ssd1306_3d-cube-fps.py3d - žičani model kocke rotira na ssd1306 128x32 zaslonu.
+
 ssd1306_clock-128x32.py - sat na ssd1306 128x32 zaslonu.
+
 ssd1306_clock-128x64.py - sat na ssd1306 128x64 zaslonu.
+
 ssd1306_date-clock-128x32.py - datum i sat na ssd1306 128x32 zaslonu.
+
 ssd1306_date-clock-128x64.py - datum i sat na ssd1306 128x64 zaslonu.
 
 <hr>
