@@ -61,12 +61,12 @@ ssd1306_date-clock-128x32.py - datum i sat na ssd1306 128x32 zaslonu.
 
 ssd1306_date-clock-128x64.py - datum i sat na ssd1306 128x64 zaslonu.
 
-ssd1306_random_circles_fps.py - krugovi na zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
+ssd1306_random_circles_fps.py - krugovi na ssd1306 128x32 zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
 
-ssd1306_random_circles_squares_fps.py - krugovi i kvadrati na zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
+ssd1306_random_circles_squares_fps.py - krugovi i kvadrati na ssd1306 128x32 zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
 
-ssd1306_random_squares_fps.py - kvadrati na zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
+ssd1306_random_squares_fps.py - kvadrati na ssd1306 128x32 zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
 
-ssd1306_random_triangles_fps.py - trokuti na zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
+ssd1306_random_triangles_fps.py - trokuti na ssd1306 128x32 zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
 
 <hr>
