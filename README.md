@@ -1,8 +1,9 @@
-# Raspberry Pi Pico RP2040 clone 16 MB
+# Raspberry Pi Pico RP2040 clone 16 MB, RP-2040 Zero 2 MB
 
 VCC-GND.COM - YD-RP2040 GPIO dijagram
 
 ![My Image](images/YD-RP2040.png)
+![My Image](images/rp2040-zero.png)
 
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
 <hr>
