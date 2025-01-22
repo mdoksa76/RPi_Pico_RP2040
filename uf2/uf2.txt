@@ -7,7 +7,7 @@ Na novo prepoznati disk prebaci se uf2 datoteka. Nakon toga uređaj je spreman z
 
 Sada su u uf2 mapi tri uf2 datoteke:
   - SparkFun za 16 MB verziju
-  - WeActStudio za 8 MB i 16 MB verzije
+  - WeActStudio za 2 MB, 8 MB i 16 MB verzije
 
 Poveznice:
   https://micropython.org/download/WEACTSTUDIO/
