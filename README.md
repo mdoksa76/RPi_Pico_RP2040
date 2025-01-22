@@ -8,7 +8,7 @@ TZT RP2040-Zero GPIO dijagram
 
 ![My Image](images/rp2040-zero.png)
 
-
+<hr>
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
 <hr>
 
