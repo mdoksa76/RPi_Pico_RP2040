@@ -3,6 +3,9 @@
 VCC-GND.COM - YD-RP2040 GPIO dijagram
 
 ![My Image](images/YD-RP2040.png)
+
+TZT RP-2040 Zero GPIO dijagram
+
 ![My Image](images/rp2040-zero.png)
 
 Micropython kod za Raspberry Pi Pico i "kineske klonove".
