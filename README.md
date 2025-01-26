@@ -74,4 +74,6 @@ ssd1306_random_squares_fps.py - kvadrati na ssd1306 128x32 zaslonu po slučajnom
 
 ssd1306_random_triangles_fps.py - trokuti na ssd1306 128x32 zaslonu po slučajnom odabiru položaja i veličine polumjera uz prikaz fps-a.
 
+RP2040-demo.py - animacija za ssd1306 zaslon.
+
 <hr>
