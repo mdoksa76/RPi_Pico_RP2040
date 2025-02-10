@@ -2,7 +2,7 @@ from machine import Pin, I2C, PWM
 import time
 
 # Initialize Buzzer
-buzzer = PWM(Pin(0))  # Buzzer connected to GPIO 2
+buzzer = PWM(Pin(0))  # Buzzer connected to GPIO 0 on RP2040-Zero
 
 # Melody notes (frequencies in Hz)
 melody = [262, 294, 330, 349, 392, 440, 494, 523]  # C4 to C5
