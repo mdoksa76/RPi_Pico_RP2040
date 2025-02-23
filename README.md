@@ -1,4 +1,5 @@
-![My Image](images/rpi-bw.png) # Raspberry Pi Pico RP2040 clone 16 MB, RP2040-Zero 2 MB
+![My Image](images/rpi-bw.png)
+# Raspberry Pi Pico RP2040 clone 16 MB, RP2040-Zero 2 MB
 
 VCC-GND.COM - YD-RP2040 GPIO dijagram
 
