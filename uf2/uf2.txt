@@ -1,13 +1,15 @@
 Micropython firmware uf2 datoteke.
 
-Na friško nabavljeni klon Raspberry Pi Pico (s 16 MB flash memorije za pohranu) prvo sam skinuo WeActStudio firmware za verziju s 8 MB flash memorije.
 Instalacija na uređaj se obavlja tako da se pri spajanju na USB port računala drži pritisnt gumb BOOT na ploči
 (https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3) i na taj način se uređaj prebaci u "USB mass storage device mode".
 Na novo prepoznati disk prebaci se uf2 datoteka. Nakon toga uređaj je spreman za rad s novo podignutim micropython sustavom kroz Thonny IDE.
 
-Sada su u uf2 mapi tri uf2 datoteke:
-  - SparkFun za 16 MB verziju
-  - WeActStudio za 2 MB, 8 MB i 16 MB verzije
+uf2 datoteke:
+  SPARKFUN_PROMICRO-20241129-v1.24.1.uf2 - 16 MB
+  WEACTSTUDIO-20241129-v1.24.1.uf2 - 16 MB
+  WEACTSTUDIO-FLASH_2M-20241129-v1.24.1.uf2 - 2 MB (RP2040-Zero)
+  WEACTSTUDIO-FLASH_8M-20241129-v1.24.1.uf2 - 8MB
+  flash_nuke.uf2 - brisanje cjelokupnog sadržaja flash memorije
 
 Poveznice:
   https://micropython.org/download/WEACTSTUDIO/
