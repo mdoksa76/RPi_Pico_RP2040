@@ -59,7 +59,7 @@ Skripta provjere postojanja funkcionalnog I2C uređaja povezanog s RP2040
 
 **Kolekcija ssd1306 skripti**
 
-[![Video Title](https://i9.ytimg.com/vi_webp/3kJzqUD7_OM/mq2.webp?sqp=CJiB7r0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gWigsMA8=&rs=AOn4CLDNj1keAjE6vPK2J6WoztPZ_SqFBg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=3kJzqUD7_OM))
+[![Video Title]]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=3kJzqUD7_OM))
 
 ssd1306_3d-cube-fps.py3d - žičani model kocke rotira na ssd1306 128x32 zaslonu.
 
