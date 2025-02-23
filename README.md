@@ -1,4 +1,6 @@
-![My Image](images/rpi-bw.png)
+<div align="center">
+  <img src="images/rpi-bw.png">
+</div>
 # Raspberry Pi Pico RP2040 clone 16 MB, RP2040-Zero 2 MB
 
 VCC-GND.COM - YD-RP2040 GPIO dijagram
