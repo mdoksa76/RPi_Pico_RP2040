@@ -9,6 +9,8 @@ uf2 datoteke:
   WEACTSTUDIO-20241129-v1.24.1.uf2 - 16 MB
   WEACTSTUDIO-FLASH_2M-20241129-v1.24.1.uf2 - 2 MB (RP2040-Zero)
   WEACTSTUDIO-FLASH_8M-20241129-v1.24.1.uf2 - 8MB
+  RPI_PICO2-20241129-v1.24.1.uf2 - 4MB (RP2350-Plus)
+  RPI_PICO2-RISCV-20241129-v1.24.1.uf2 - 4MB (RP2350-Plus)
   flash_nuke.uf2 - brisanje cjelokupnog sadržaja flash memorije
 
 Poveznice:
