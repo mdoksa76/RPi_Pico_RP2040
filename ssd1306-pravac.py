@@ -18,7 +18,9 @@ def pravac(oled,a,b):
     oled.fill(0)
     oled.hline(0, center_y, oled_width, 1)
     oled.vline(center_x, 0, oled_height, 1)
-    oled.rect(0,0,128,64,1)
+    oled.rect(0, 0, oled_width, oled_height, 1)
+    oled.text('x', oled_width-10, center_y+2, 1)
+    oled.text('y', center_x+2, 0, 1)
     for x in [-60, -45, -30, -15, 15, 30, 45, 60]:
         screen_x = center_x + x
         oled.vline(screen_x, center_y - 2, 4, 1)
